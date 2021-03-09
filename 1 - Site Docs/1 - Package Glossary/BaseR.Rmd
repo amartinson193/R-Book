@@ -1,0 +1,22 @@
+---
+title: "Base R"
+output: 
+  html_document: 
+    theme: cerulean
+---
+    
+
+# Methods
+
+<details> --------------------------------------------
+<summary>add</summary>
+
+merge(x, y, by = intersect(names(x), names(y)),
+      by.x = by, by.y = by, all = FALSE, all.x = all, all.y = all,
+      sort = TRUE, suffixes = c(".x",".y"), no.dups = TRUE,
+      incomparables = NULL, .)
+[Docs](https://www.rdocumentation.org/packages/base/versions/3.6.2/topics/merge)
+
+
+
+</details>

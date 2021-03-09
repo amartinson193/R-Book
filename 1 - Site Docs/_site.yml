@@ -1,0 +1,18 @@
+name: "R-Book"
+navbar:
+  title: "My R Book"
+  left:
+    - text: "Home"
+      href: index.html
+    - text: "Package Glossary"
+      menu:
+        - text: "*Base R"
+          href: "1 - Package Glossary/BaseR.html"
+    - text: "Models"
+      href: "3 - Models/Models.html"
+    - text: "Articles/Projects"
+      href: "2 - Articles/ArticlesProjects.html"
+
+
+      
+output_dir: '.'
